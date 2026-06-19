@@ -1,0 +1,15 @@
+{
+  "name": "Jewels Insult Counter",
+  "short_name": "Jewels Counter",
+  "description": "Tally how many insults your sister Jewels lands at dinner.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a1126",
+  "theme_color": "#1a1126",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
